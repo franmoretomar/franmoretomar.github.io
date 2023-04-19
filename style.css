@@ -1,0 +1,70 @@
+html  {
+  background-color: gray;
+}
+
+fieldset  {
+  background-color: #87ce;
+  opacity: 90%;
+}
+
+h1, h3  {
+  color: pink;
+  text-align: center;
+  
+}
+
+h3  {
+  font-weight: normal;
+  font-style: italic;
+}
+
+h4  {
+  color: pink;
+  padding: 2px;
+  text-align: auto;
+  margin: 0px;
+
+}
+
+h5  {
+  color: ;
+  padding: 2px;
+  text-align: auto;
+  margin: 0px 10px;
+  font-weight: normal;
+}
+
+h6  {
+  font-size: 15px;
+  padding: 0px 0px;
+  margin: 10px 4px 5px 6px;
+  font-family: Tahoma;
+}
+
+textarea  {
+  color: gray;
+  font-weight: normal;
+  font-style: italic;
+  font-family: x;
+  font-size: 13;
+}
+input[type="submit"]  {
+  width: 100%;
+  hight: 100%;
+  display: center;
+  font-size: 17px;
+  color: white;
+  margin-bot: 0px;
+  background-color:pink;
+  border: 1px solid white;
+}
+
+footer  {
+  background-color: #87e;
+  border: 1px solid white;
+  width: auto;
+  height: auto;
+  margin: 5px 3px;
+  padding: 0px 0px;
+  opacity: 80%;
+}
