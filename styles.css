@@ -19,7 +19,7 @@ fieldset  {
 h1, h3  {
   color: pink;
   text-align: center;
-  z-index: 1
+  z-index: -1
   
 }
 
