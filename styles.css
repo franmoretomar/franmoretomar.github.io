@@ -3,10 +3,6 @@ header-img	{
   	height: auto;
  	margin: 5px 3px;
 	opacity: 80%;
-	position: hidden;
-	z-index: 2;
-	display: overflow;
-		
 }
 
 html  {
@@ -22,7 +18,9 @@ h1, h3  {
   color: pink;
   text-align: center;
   z-index: -1;
-  display: overflow;
+  display: flow;
+  background-image: url(img/header-img);
+	  
 
   
 }
